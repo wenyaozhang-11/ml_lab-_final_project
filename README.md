@@ -13,4 +13,4 @@ What I find?
 
 1.The attributes that reflect pokemon’s qualities of ‘rare and powerful’ work well on predicting what is a legendary Pokemon.
 
-2.Random Forest works best to classify the legendary Pokemon and normal Pokemon.
+2.Random Forest works best to classify the legendary Pokemon.
